@@ -1,4 +1,4 @@
-## Automated Essay Scoring 2.0
+## Automated Essay Scoring
 
 #### Improve upon essay scoring algorithms to improve student learning outcomes.
 
